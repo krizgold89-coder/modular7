@@ -135,3 +135,11 @@ tarea_clinica/
 - El número de registro médico debe ser único para cada médico
 
 
+GRUPO 2
+INTEGRANTES
+ALFONSO BASTERRECHEA
+SEBASTIAN TOLEDO
+VIVIANA CANALES
+CRISTOFER HENRIQUEZ
+
+
